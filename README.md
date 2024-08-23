@@ -1,4 +1,4 @@
-                                                       To-Do List Application
+                                            To-Do List Application
 
 The To-Do List application is built using Streamlit, an open-source library that facilitates the rapid development of interactive web applications with Python.
 Streamlit simplifies creating user interfaces for data management and visualization.
